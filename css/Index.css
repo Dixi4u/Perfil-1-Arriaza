@@ -5,3 +5,8 @@ img{
 #letra{
     color: aliceblues;
 }
+
+.header{
+    height: 100px;
+    width: 100px;
+}
