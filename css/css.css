@@ -1,3 +1,7 @@
+body{
+    background-color: gray;
+}
+
 img{
     height: 50%;
     width: 50%;
@@ -22,11 +26,18 @@ html, body{
     height: 100%;
     text-align: justify;
 }
+
 .container{
     display: flex;
     flex-direction: column;
     min-height: 85vh;
 }
+
 .content{
     flex-grow: 1;
+}
+
+.card-img-top{
+    height: 150px;
+    width: 200px;
 }
